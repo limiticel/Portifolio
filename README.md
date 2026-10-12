@@ -2,7 +2,7 @@
 
 Portfólio pessoal de **Richard Silva** — desenvolvedor backend (Rust, APIs financeiras, integrações bancárias).
 
-Site estático (HTML, CSS e JS puros), publicado com GitHub Pages em https://limiticel.github.io.
+Site estático (HTML, CSS e JS puros), publicado com GitHub Pages em https://limiticel.github.io/Portifolio/.
 
 ## Rodar localmente
 
