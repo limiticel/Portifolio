@@ -98,8 +98,9 @@ h1, h2, h3 { color: var(--text); margin: 0; }
 }
 .theme-btn:hover { color: var(--text); border-color: var(--border-hover); }
 .theme-btn svg { width: 15px; height: 15px; fill: currentColor; }
+.nav-links .nav-ext { color: var(--text); }
 @media (max-width: 560px) {
-  .nav-links a { display: none; }
+  .nav-links a:not(.nav-ext) { display: none; }
 }
 
 /* Hero */
